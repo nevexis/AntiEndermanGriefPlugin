@@ -1,0 +1,5 @@
+name: AntiEndermanGrief
+version: '${project.version}'
+main: dev.nevah5.mc.antiendermangrief.AntiEndermanGrief
+api-version: 1.19
+description: Disables Enderman Griefing
